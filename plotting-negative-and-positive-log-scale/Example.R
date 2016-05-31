@@ -10,6 +10,7 @@ ymax <- 5
 xdiv <- 10
 ydiv <- 10
 
+pdf("sample.pdf",6,6)
 par(mar=c(5,5,3,2))
 plot(10^10,
 type="l",col=2,lwd="0.5",lty=1,
