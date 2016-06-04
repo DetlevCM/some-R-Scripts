@@ -80,7 +80,7 @@ ylim=c(-575,-500),ylab='',yaxt='n'
 #,ann=FALSE # annotation false works as well as an empty label
 )
 
-### Sore more old references
+### Some more old references
 # http://www.statmethods.net/advgraphs/axes.html
 # Some more help: http://stackoverflow.com/questions/3785089/r-change-the-spacing-of-tick-marks-on-the-axis-of-a-plot
 # https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/axis.html
